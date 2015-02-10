@@ -1,7 +1,7 @@
-# These are colours
+# These are colours + shapes!
 
-Red
+Red + Square
 
-Green
+Green + Triangle
 
-Blue
+Blue + Circle
